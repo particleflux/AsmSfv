@@ -1,0 +1,3 @@
+AboutDlgProc PROTO :DWORD, :DWORD, :DWORD, :DWORD
+
+
